@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="arduino"
+                   displayName="arduino"
+                   projectFiles="true"
+                   root="/usr/share/arduino">
+      <logicalFolder name="hardware" displayName="hardware" projectFiles="true">
+        <logicalFolder name="arduino" displayName="arduino" projectFiles="true">
+          <logicalFolder name="avr" displayName="avr" projectFiles="true">
+            <logicalFolder name="cores" displayName="cores" projectFiles="true">
+              <logicalFolder name="arduino" displayName="arduino" projectFiles="true">
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/Arduino.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HID.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial0.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial1.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial2.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial3.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial_private.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/IPAddress.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/IPAddress.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/Print.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/Print.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/Printable.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/Stream.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/Stream.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/Tone.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/USBAPI.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/WCharacter.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/WInterrupts.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/WMath.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/WString.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/WString.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/abi.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/binary.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/hooks.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/main.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/new.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_analog.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_digital.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_private.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_pulse.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_shift.c</itemPath>
+              </logicalFolder>
+            </logicalFolder>
+            <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+              <logicalFolder name="Wire" displayName="Wire" projectFiles="true">
+                <logicalFolder name="utility" displayName="utility" projectFiles="true">
+                  <itemPath>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility/twi.c</itemPath>
+                  <itemPath>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility/twi.h</itemPath>
+                </logicalFolder>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/Wire.cpp</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/Wire.h</itemPath>
+              </logicalFolder>
+            </logicalFolder>
+          </logicalFolder>
+          <logicalFolder name="cores" displayName="cores" projectFiles="true">
+            <logicalFolder name="arduino" displayName="arduino" projectFiles="true">
+              <logicalFolder name="avr-libc" displayName="avr-libc" projectFiles="true">
+                <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc/malloc.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc/realloc.c</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc/sectionname.h</itemPath>
+                <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc/stdlib_private.h</itemPath>
+              </logicalFolder>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Arduino.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/CDC.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/HID.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/HardwareSerial.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/HardwareSerial.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/IPAddress.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/IPAddress.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Platform.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Print.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Print.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Printable.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Stream.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Stream.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/Tone.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/USBAPI.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/USBCore.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/USBDesc.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/WCharacter.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/WInterrupts.c</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/WMath.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/WString.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/WString.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/binary.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/main.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/new.cpp</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/new.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/wiring.c</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/wiring_analog.c</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/wiring_digital.c</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/wiring_private.h</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/wiring_pulse.c</itemPath>
+              <itemPath>/usr/share/arduino/hardware/arduino/cores/arduino/wiring_shift.c</itemPath>
+            </logicalFolder>
+          </logicalFolder>
+        </logicalFolder>
+      </logicalFolder>
+      <logicalFolder name="libraries" displayName="libraries" projectFiles="true">
+        <logicalFolder name="EEPROM" displayName="EEPROM" projectFiles="true">
+          <itemPath>/usr/share/arduino/libraries/EEPROM/EEPROM.cpp</itemPath>
+          <itemPath>/usr/share/arduino/libraries/EEPROM/EEPROM.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="Servo" displayName="Servo" projectFiles="true">
+          <logicalFolder name="src" displayName="src" projectFiles="true">
+            <logicalFolder name="avr" displayName="avr" projectFiles="true">
+              <itemPath>/usr/share/arduino/libraries/Servo/src/avr/Servo.cpp</itemPath>
+              <itemPath>/usr/share/arduino/libraries/Servo/src/avr/ServoTimers.h</itemPath>
+            </logicalFolder>
+            <logicalFolder name="sam" displayName="sam" projectFiles="true">
+              <itemPath>/usr/share/arduino/libraries/Servo/src/sam/Servo.cpp</itemPath>
+            </logicalFolder>
+            <itemPath>/usr/share/arduino/libraries/Servo/src/Servo.h</itemPath>
+          </logicalFolder>
+          <itemPath>/usr/share/arduino/libraries/Servo/Servo.cpp</itemPath>
+          <itemPath>/usr/share/arduino/libraries/Servo/Servo.h</itemPath>
+        </logicalFolder>
+        <logicalFolder name="Wire" displayName="Wire" projectFiles="true">
+          <logicalFolder name="utility" displayName="utility" projectFiles="true">
+            <itemPath>/usr/share/arduino/libraries/Wire/utility/twi.c</itemPath>
+            <itemPath>/usr/share/arduino/libraries/Wire/utility/twi.h</itemPath>
+          </logicalFolder>
+          <itemPath>/usr/share/arduino/libraries/Wire/Wire.cpp</itemPath>
+          <itemPath>/usr/share/arduino/libraries/Wire/Wire.h</itemPath>
+        </logicalFolder>
+      </logicalFolder>
+    </logicalFolder>
+    <df root="." name="0">
+      <df name="src">
+        <df name="bak">
+          <in>Adafruit_GFX.cpp</in>
+          <in>Adafruit_SSD1306.cpp</in>
+          <in>functions.cpp</in>
+          <in>glcdfont.c</in>
+          <in>main.cpp</in>
+        </df>
+        <in>Adafruit_GFX.cpp</in>
+        <in>Adafruit_SSD1306.cpp</in>
+        <in>FilterDerivative.cpp</in>
+        <in>FilterOnePole.cpp</in>
+        <in>FilterTwoPole.cpp</in>
+        <in>RunningStatistics.cpp</in>
+        <in>functions.cpp</in>
+        <in>glcdfont.c</in>
+        <in>main.cpp</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <compilerSet>AVR|GNU</compilerSet>
+        <dependencyChecking>false</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <flagsDictionary>
+        <element flagsID="0" commonFlags="-Os -fno-exceptions"/>
+        <element flagsID="1" commonFlags="-Os -fno-rtti -fno-exceptions"/>
+        <element flagsID="2" commonFlags="-g -Os"/>
+      </flagsDictionary>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>ano build -m pro --cpu 16MHzatmega328</buildCommand>
+          <cleanCommand>ano clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+        <preBuild>
+          <preBuildCommandWorkingDir>.</preBuildCommandWorkingDir>
+          <preBuildCommand></preBuildCommand>
+        </preBuild>
+      </makefileType>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/CDC.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/HID.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial0.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial1.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial2.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/HardwareSerial3.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/IPAddress.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/Print.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/Stream.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/Tone.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/USBCore.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/WInterrupts.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/WMath.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/WString.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include/avr</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/abi.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/hooks.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/main.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/new.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_analog.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_digital.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_pulse.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/cores/arduino/wiring_shift.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/libraries/Wire/Wire.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility/twi.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/CDC.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/HID.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/HardwareSerial.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/IPAddress.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/Print.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/Stream.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/Tone.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/USBCore.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/WInterrupts.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/WMath.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/WString.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc/malloc.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc/realloc.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/main.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/new.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/wiring.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/wiring_analog.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/wiring_digital.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/wiring_pulse.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/hardware/arduino/cores/arduino/wiring_shift.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="/usr/share/arduino/libraries/EEPROM/EEPROM.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/libraries/Servo/Servo.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/libraries/Servo/src/avr/Servo.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="1">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/libraries/Servo/src/sam/Servo.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/libraries/Wire/Wire.cpp"
+            ex="false"
+            tool="1"
+            flavor2="4">
+        <ccTool flags="2">
+        </ccTool>
+      </item>
+      <item path="/usr/share/arduino/libraries/Wire/utility/twi.c"
+            ex="false"
+            tool="0"
+            flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <folder path="0">
+        <cTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+            <pElem>.</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO=105</Elem>
+            <Elem>F_CPU=8000000L</Elem>
+          </preprocessorList>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="0/src/bak">
+        <ccTool>
+          <preprocessorList>
+            <Elem>ARDUINO=105</Elem>
+            <Elem>F_CPU=8000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="arduino">
+        <cTool>
+          <incDir>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="arduino/hardware/arduino/avr">
+        <cTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/eightanaloginputs</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/test</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/test/firmata_test</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SpacebrewYun</pElem>
+            <pElem>/usr/share/arduino/libraries/SpacebrewYun/src</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/src</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Bridge</pElem>
+            <pElem>/usr/share/arduino/libraries/Bridge/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/sam</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/avr</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora/src</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal/src</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/src</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper/src</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/src</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM/src</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/SPI</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO_ARCH_AVR</Elem>
+          </preprocessorList>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/eightanaloginputs</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/test</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/test/firmata_test</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SpacebrewYun</pElem>
+            <pElem>/usr/share/arduino/libraries/SpacebrewYun/src</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/src</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Bridge</pElem>
+            <pElem>/usr/share/arduino/libraries/Bridge/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/sam</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/avr</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora/src</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal/src</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/src</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper/src</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/src</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM/src</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/SPI</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO_ARCH_AVR</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="arduino/hardware/arduino/avr/libraries">
+        <cTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="arduino/hardware/arduino/cores">
+        <cTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO=106</Elem>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO=106</Elem>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="arduino/libraries">
+        <cTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO=106</Elem>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </cTool>
+        <ccTool>
+          <preprocessorList>
+            <Elem>ARDUINO=106</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="arduino/libraries/EEPROM">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="arduino/libraries/Servo/src">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/eightanaloginputs</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/test</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata/test/firmata_test</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SpacebrewYun</pElem>
+            <pElem>/usr/share/arduino/libraries/SpacebrewYun/src</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/src</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Bridge</pElem>
+            <pElem>/usr/share/arduino/libraries/Bridge/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/sam</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/avr</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Temboo/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora/src</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal/src</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/src</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper/src</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/src</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/src/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM/src</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/SPI</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO_ARCH_AVR</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="arduino/libraries/Servo/src/avr">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+          </incDir>
+        </ccTool>
+      </folder>
+      <folder path="arduino/libraries/Servo/src/sam">
+        <ccTool>
+          <preprocessorList>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <folder path="arduino/libraries/Wire">
+        <ccTool>
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/RobotIRremote</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </folder>
+      <item path="src/Adafruit_GFX.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>src</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/Adafruit_SSD1306.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>src</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/FilterDerivative.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>src</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/FilterOnePole.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>src</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/FilterTwoPole.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>src</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/RunningStatistics.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="1">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/variants/standard</pElem>
+            <pElem>src</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/lib/gcc/avr/4.8.1/include</pElem>
+            <pElem>/usr/share/arduino/hardware/tools/avr/avr/include</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/standard</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/bak/Adafruit_GFX.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/bak/Adafruit_SSD1306.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/bak/functions.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/bak/glcdfont.c" ex="false" tool="0" flavor2="2">
+        <cTool flags="2">
+        </cTool>
+      </item>
+      <item path="src/bak/main.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="2">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/cores/arduino/avr-libc</pElem>
+            <pElem>/usr/share/arduino/libraries/Firmata</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet</pElem>
+            <pElem>/usr/share/arduino/libraries/Ethernet/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi</pElem>
+            <pElem>/usr/share/arduino/libraries/WiFi/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Motor</pElem>
+            <pElem>/usr/share/arduino/libraries/Esplora</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/libraries/Wire/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/LiquidCrystal</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT</pElem>
+            <pElem>/usr/share/arduino/libraries/TFT/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control</pElem>
+            <pElem>/usr/share/arduino/libraries/Robot_Control/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/SoftwareSerial</pElem>
+            <pElem>/usr/share/arduino/libraries/Stepper</pElem>
+            <pElem>/usr/share/arduino/libraries/SD</pElem>
+            <pElem>/usr/share/arduino/libraries/SD/utility</pElem>
+            <pElem>/usr/share/arduino/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/libraries/SPI</pElem>
+            <pElem>/usr/share/arduino/libraries/GSM</pElem>
+            <pElem>.</pElem>
+          </incDir>
+        </ccTool>
+      </item>
+      <item path="src/functions.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/eightanaloginputs</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/sam</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/avr</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility</pElem>
+            <pElem>.</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO=165</Elem>
+            <Elem>ARDUINO_ARCH_AVR</Elem>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+      <item path="src/glcdfont.c" ex="false" tool="0" flavor2="2">
+        <cTool flags="2">
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/main.cpp" ex="false" tool="1" flavor2="4">
+        <ccTool flags="0">
+          <incDir>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/cores/arduino</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/variants/eightanaloginputs</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/sam</pElem>
+            <pElem>/usr/share/arduino/libraries/Servo/src/avr</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/EEPROM</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire</pElem>
+            <pElem>/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility</pElem>
+            <pElem>.</pElem>
+          </incDir>
+          <preprocessorList>
+            <Elem>ARDUINO=165</Elem>
+            <Elem>ARDUINO_ARCH_AVR</Elem>
+            <Elem>F_CPU=16000000L</Elem>
+          </preprocessorList>
+        </ccTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

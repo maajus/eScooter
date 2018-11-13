@@ -1,0 +1,34 @@
+
+
+
+
+
+
+
+
+	
+
+
+
+.build_ano/pro/Wire/utility/twi.d : /usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility/twi.c
+	@mkdir -p .build_ano/pro/Wire/utility
+	@/usr/share/arduino/hardware/tools/avr/bin/avr-gcc -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=165 -DARDUINO_ARCH_AVR -I/usr/share/arduino/hardware/arduino/avr/cores/arduino -ffunction-sections -fdata-sections -g -Os -w -I/usr/share/arduino/hardware/arduino/avr/variants/eightanaloginputs -I/usr/share/arduino/hardware/arduino/avr/cores/arduino -I/usr/share/arduino/libraries/Firmata -I/usr/share/arduino/libraries/Firmata/test -I/usr/share/arduino/libraries/Firmata/utility -I/usr/share/arduino/libraries/Firmata/test/firmata_test -I/usr/share/arduino/libraries/Ethernet -I/usr/share/arduino/libraries/Ethernet/src -I/usr/share/arduino/libraries/Ethernet/src/utility -I/usr/share/arduino/libraries/SpacebrewYun -I/usr/share/arduino/libraries/SpacebrewYun/src -I/usr/share/arduino/libraries/WiFi -I/usr/share/arduino/libraries/WiFi/src -I/usr/share/arduino/libraries/WiFi/src/utility -I/usr/share/arduino/libraries/Bridge -I/usr/share/arduino/libraries/Bridge/src -I/usr/share/arduino/libraries/Servo -I/usr/share/arduino/libraries/Servo/src -I/usr/share/arduino/libraries/Servo/src/sam -I/usr/share/arduino/libraries/Servo/src/avr -I/usr/share/arduino/libraries/Robot_Motor -I/usr/share/arduino/libraries/Robot_Motor/src -I/usr/share/arduino/libraries/Temboo -I/usr/share/arduino/libraries/Temboo/src -I/usr/share/arduino/libraries/Temboo/src/utility -I/usr/share/arduino/libraries/Esplora -I/usr/share/arduino/libraries/Esplora/src -I/usr/share/arduino/libraries/LiquidCrystal -I/usr/share/arduino/libraries/LiquidCrystal/src -I/usr/share/arduino/libraries/TFT -I/usr/share/arduino/libraries/TFT/src -I/usr/share/arduino/libraries/TFT/src/utility -I/usr/share/arduino/libraries/Robot_Control -I/usr/share/arduino/libraries/Robot_Control/src -I/usr/share/arduino/libraries/Robot_Control/src/utility -I/usr/share/arduino/libraries/RobotIRremote -I/usr/share/arduino/libraries/RobotIRremote/src -I/usr/share/arduino/libraries/Stepper -I/usr/share/arduino/libraries/Stepper/src -I/usr/share/arduino/libraries/SD -I/usr/share/arduino/libraries/SD/src -I/usr/share/arduino/libraries/SD/src/utility -I/usr/share/arduino/libraries/GSM -I/usr/share/arduino/libraries/GSM/src -I/usr/share/arduino/hardware/arduino/avr/libraries/Wire -I/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility -I/usr/share/arduino/hardware/arduino/avr/libraries/SoftwareSerial -I/usr/share/arduino/hardware/arduino/avr/libraries/EEPROM -I/usr/share/arduino/hardware/arduino/avr/libraries/SPI -I/home/justas/Arduino/libraries/examples -I/home/justas/Arduino/libraries/examples/RemoteXYSerial -I/home/justas/Arduino/libraries/examples/RemoteXYSoftwareSerial -I/home/justas/Arduino/libraries/RemoteXY  -MM $^ > $@
+	
+	@printf ".build_ano/pro/Wire/utility/twi.d .build_ano/pro/Wire/utility/" | cat - $@ > $@~ && mv $@~ $@
+
+.build_ano/pro/Wire/Wire.d : /usr/share/arduino/hardware/arduino/avr/libraries/Wire/Wire.cpp
+	@mkdir -p .build_ano/pro/Wire
+	@/usr/share/arduino/hardware/tools/avr/bin/avr-gcc -mmcu=atmega328p -DF_CPU=16000000L -DARDUINO=165 -DARDUINO_ARCH_AVR -I/usr/share/arduino/hardware/arduino/avr/cores/arduino -ffunction-sections -fdata-sections -g -Os -w -I/usr/share/arduino/hardware/arduino/avr/variants/eightanaloginputs -I/usr/share/arduino/hardware/arduino/avr/cores/arduino -I/usr/share/arduino/libraries/Firmata -I/usr/share/arduino/libraries/Firmata/test -I/usr/share/arduino/libraries/Firmata/utility -I/usr/share/arduino/libraries/Firmata/test/firmata_test -I/usr/share/arduino/libraries/Ethernet -I/usr/share/arduino/libraries/Ethernet/src -I/usr/share/arduino/libraries/Ethernet/src/utility -I/usr/share/arduino/libraries/SpacebrewYun -I/usr/share/arduino/libraries/SpacebrewYun/src -I/usr/share/arduino/libraries/WiFi -I/usr/share/arduino/libraries/WiFi/src -I/usr/share/arduino/libraries/WiFi/src/utility -I/usr/share/arduino/libraries/Bridge -I/usr/share/arduino/libraries/Bridge/src -I/usr/share/arduino/libraries/Servo -I/usr/share/arduino/libraries/Servo/src -I/usr/share/arduino/libraries/Servo/src/sam -I/usr/share/arduino/libraries/Servo/src/avr -I/usr/share/arduino/libraries/Robot_Motor -I/usr/share/arduino/libraries/Robot_Motor/src -I/usr/share/arduino/libraries/Temboo -I/usr/share/arduino/libraries/Temboo/src -I/usr/share/arduino/libraries/Temboo/src/utility -I/usr/share/arduino/libraries/Esplora -I/usr/share/arduino/libraries/Esplora/src -I/usr/share/arduino/libraries/LiquidCrystal -I/usr/share/arduino/libraries/LiquidCrystal/src -I/usr/share/arduino/libraries/TFT -I/usr/share/arduino/libraries/TFT/src -I/usr/share/arduino/libraries/TFT/src/utility -I/usr/share/arduino/libraries/Robot_Control -I/usr/share/arduino/libraries/Robot_Control/src -I/usr/share/arduino/libraries/Robot_Control/src/utility -I/usr/share/arduino/libraries/RobotIRremote -I/usr/share/arduino/libraries/RobotIRremote/src -I/usr/share/arduino/libraries/Stepper -I/usr/share/arduino/libraries/Stepper/src -I/usr/share/arduino/libraries/SD -I/usr/share/arduino/libraries/SD/src -I/usr/share/arduino/libraries/SD/src/utility -I/usr/share/arduino/libraries/GSM -I/usr/share/arduino/libraries/GSM/src -I/usr/share/arduino/hardware/arduino/avr/libraries/Wire -I/usr/share/arduino/hardware/arduino/avr/libraries/Wire/utility -I/usr/share/arduino/hardware/arduino/avr/libraries/SoftwareSerial -I/usr/share/arduino/hardware/arduino/avr/libraries/EEPROM -I/usr/share/arduino/hardware/arduino/avr/libraries/SPI -I/home/justas/Arduino/libraries/examples -I/home/justas/Arduino/libraries/examples/RemoteXYSerial -I/home/justas/Arduino/libraries/examples/RemoteXYSoftwareSerial -I/home/justas/Arduino/libraries/RemoteXY  -MM $^ > $@
+	
+	@printf ".build_ano/pro/Wire/Wire.d .build_ano/pro/Wire/" | cat - $@ > $@~ && mv $@~ $@
+
+
+
+.build_ano/pro/Wire/dependencies.d : .build_ano/pro/Wire/utility/twi.d .build_ano/pro/Wire/Wire.d
+	@echo Scanning dependencies of Wire
+	@mkdir -p .build_ano/pro/Wire
+	@cat $^ > $@;
+
+all : .build_ano/pro/Wire/dependencies.d
+	@true
+

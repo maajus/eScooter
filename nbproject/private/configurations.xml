@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="97">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df root="." name="0">
+      <df name=".build">
+        <df name="pro5v328">
+          <df name="arduino">
+            <df name="avr-libc">
+            </df>
+          </df>
+          <df name="EEPROM">
+          </df>
+          <df name="Servo">
+          </df>
+          <df name="src">
+          </df>
+          <df name="Wire">
+            <df name="utility">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name=".build_ano">
+        <df name="pro">
+          <df name="arduino">
+          </df>
+          <df name="EEPROM">
+          </df>
+          <df name="Servo">
+            <df name="src">
+              <df name="avr">
+              </df>
+              <df name="sam">
+              </df>
+            </df>
+          </df>
+          <df name="src">
+          </df>
+          <df name="Wire">
+            <df name="utility">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="bak">
+        <in>Adafruit_GFX.cpp</in>
+        <in>Adafruit_GFX.h</in>
+        <in>Adafruit_SSD1306.cpp</in>
+        <in>Adafruit_SSD1306.h</in>
+        <in>functions.cpp</in>
+        <in>functions.h</in>
+        <in>glcdfont.c</in>
+        <in>main.cpp</in>
+        <in>main.h</in>
+      </df>
+      <df name="Filters-master">
+        <df name="examples">
+          <df name="FilterExample">
+          </df>
+        </df>
+        <in>FilterDerivative.cpp</in>
+        <in>FilterDerivative.h</in>
+        <in>FilterOnePole.cpp</in>
+        <in>FilterOnePole.h</in>
+        <in>FilterTwoPole.cpp</in>
+        <in>FilterTwoPole.h</in>
+        <in>Filters.h</in>
+        <in>FloatDefine.h</in>
+        <in>RunningStatistics.cpp</in>
+        <in>RunningStatistics.h</in>
+      </df>
+      <df name="jeroendoggen-Arduino-signal-filtering-library-a1ad0a7">
+        <df name="Documentation">
+          <df name="latex">
+          </df>
+        </df>
+        <df name="Filter">
+          <df name="examples">
+            <df name="firFilter">
+            </df>
+            <df name="iirFilter">
+            </df>
+            <df name="MedianFilter">
+            </df>
+            <df name="newFilter">
+            </df>
+          </df>
+          <df name="resources">
+          </df>
+          <in>Filter.cpp</in>
+          <in>Filter.h</in>
+          <in>MedianFilter.cpp</in>
+          <in>MedianFilter.h</in>
+          <in>firFilter.cpp</in>
+          <in>firFilter.h</in>
+          <in>iirFilter.cpp</in>
+          <in>iirFilter.h</in>
+          <in>newFilter.cpp</in>
+          <in>newFilter.h</in>
+        </df>
+        <df name="TestCode">
+          <df name="FilterShiftingTest">
+            <in>filterCalculate.c</in>
+          </df>
+          <df name="SignalFilter">
+            <df name="examples">
+              <df name="Bessel">
+              </df>
+              <df name="Chebychev">
+              </df>
+              <df name="Median">
+              </df>
+              <df name="Testing">
+              </df>
+            </df>
+            <df name="resources">
+            </df>
+            <in>SignalFilter.cpp</in>
+            <in>SignalFilter.h</in>
+          </df>
+        </df>
+      </df>
+      <df name="lib">
+      </df>
+      <df name="src">
+        <df name="bak">
+          <in>Adafruit_GFX.cpp</in>
+          <in>Adafruit_SSD1306.cpp</in>
+          <in>functions.cpp</in>
+          <in>glcdfont.c</in>
+          <in>main.cpp</in>
+        </df>
+        <in>Adafruit_GFX.cpp</in>
+        <in>Adafruit_GFX.h</in>
+        <in>Adafruit_SSD1306.cpp</in>
+        <in>Adafruit_SSD1306.h</in>
+        <in>FilterDerivative.cpp</in>
+        <in>FilterDerivative.h</in>
+        <in>FilterOnePole.cpp</in>
+        <in>FilterOnePole.h</in>
+        <in>FilterTwoPole.cpp</in>
+        <in>FilterTwoPole.h</in>
+        <in>Filters.h</in>
+        <in>FloatDefine.h</in>
+        <in>RunningStatistics.cpp</in>
+        <in>RunningStatistics.h</in>
+        <in>functions.cpp</in>
+        <in>functions.h</in>
+        <in>glcdfont.c</in>
+        <in>main.cpp</in>
+        <in>main.h</in>
+      </df>
+      <in>twi.c</in>
+      <in>twi.h</in>
+    </df>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <compile>
+        <compiledirpicklist>
+          <compiledirpicklistitem>.</compiledirpicklistitem>
+          <compiledirpicklistitem>${AUTO_FOLDER}</compiledirpicklistitem>
+        </compiledirpicklist>
+        <compiledir>${AUTO_FOLDER}</compiledir>
+        <compilecommandpicklist>
+          <compilecommandpicklistitem>${MAKE} ${ITEM_NAME}.o</compilecommandpicklistitem>
+          <compilecommandpicklistitem>${AUTO_COMPILE}</compilecommandpicklistitem>
+        </compilecommandpicklist>
+        <compilecommand>${AUTO_COMPILE}</compilecommand>
+      </compile>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>/usr/bin/avrdude -p m328p -c usbasp -e -U flash:w:build/pro328/firmware.hex</runcommandpicklistitem>
+          <runcommandpicklistitem>/usr/bin/avrdude -p m328p -c usbasp -e -U flash:w:.build/pro328/firmware.hex</runcommandpicklistitem>
+          <runcommandpicklistitem></runcommandpicklistitem>
+          <runcommandpicklistitem>ano upload -m pro5v328</runcommandpicklistitem>
+          <runcommandpicklistitem>ano upload -m pro</runcommandpicklistitem>
+          <runcommandpicklistitem>ino upload -m pro --cpu 16MHzatmega328</runcommandpicklistitem>
+          <runcommandpicklistitem>ino upload -m pro5v328</runcommandpicklistitem>
+          <runcommandpicklistitem>ano upload -m pro --cpu 16MHzatmega328 -p /dev/ttyUSB1</runcommandpicklistitem>
+          <runcommandpicklistitem>ano upload -m pro --cpu 8MHzatmega328</runcommandpicklistitem>
+          <runcommandpicklistitem>ano upload -m pro --cpu 16MHzatmega328</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>ano upload -m pro --cpu 16MHzatmega328</runcommand>
+        <rundir>.</rundir>
+        <buildfirst>false</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>
